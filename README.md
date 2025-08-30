@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my "Sales Dashboard Project"! This data analytics project focuses on cleaning, pre-processing, analyzing, and visualizing sales data using MS Excel. The primary goal is to create a dynamic sales dashboard that provides valuable insights into sales performance, helping businesses understand trends and make informed decisions.
+Welcome to my "Sales_data__excel_data_analyst_project"! This data analytics project focuses on cleaning, pre-processing, analyzing, and visualizing sales data using MS Excel. The primary goal is to create a dynamic sales dashboard that provides valuable insights into sales performance, helping businesses understand trends and make informed decisions.
 
 ## Dashboard image
 
