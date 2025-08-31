@@ -1,4 +1,4 @@
-# Sales_data__excel_data_analyst_project
+#Sales Data Analysis – Excel
 
 ## Overview
 
